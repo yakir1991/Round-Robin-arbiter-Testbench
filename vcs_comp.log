@@ -1,0 +1,57 @@
+Command: vcs -full64 -licqueue -l vcs_comp.log -kdb -debug_access+all -timescale=1ns/1ns \
++vcs+flush+all +warn=all -cm line+cond+tgl+branch -cm_dir ./coverage -cm_name design_coverage \
+-cm_log coverage.log -sverilog -f build.list
+                         Chronologic VCS (TM)
+       Version S-2021.09-SP1_Full64 -- Tue Dec 24 23:46:05 2024
+
+                    Copyright (c) 1991 - 2021 Synopsys, Inc.
+   This software and the associated documentation are proprietary to Synopsys,
+ Inc. This software may only be used in accordance with the terms and conditions
+ of a written license agreement with Synopsys, Inc. All other use, reproduction,
+   or distribution of this software is strictly prohibited.  Licensed Products
+     communicate with Synopsys servers for the purpose of providing software
+    updates, detecting software piracy and verifying that customers are using
+    Licensed Products in conformity with the applicable License Key for such
+  Licensed Products. Synopsys will use information gathered in connection with
+    this process to deliver software updates and pursue software pirates and
+                                   infringers.
+
+ Inclusivity & Diversity - Visit SolvNetPlus to read the "Synopsys Statement on
+            Inclusivity and Diversity" (Refer to article 000036315 at
+                        https://solvnetplus.synopsys.com)
+
+Parsing design file 'arbiter.v'
+Parsing design file 'arbiter_assertions.sv'
+Parsing design file 'arbiter_if.sv'
+Parsing design file 'arbiter_transaction.sv'
+Parsing design file 'arbiter_generator.sv'
+Parsing design file 'arbiter_driver.sv'
+Parsing design file 'arbiter_monitor.sv'
+Parsing design file 'arbiter_scoreboard.sv'
+Parsing design file 'slave_responder.sv'
+Parsing design file 'arbiter_env.sv'
+Parsing design file 'arbiter_tb.sv'
+Top Level Modules:
+       arbiter_tb
+TimeScale is 1 ns / 1 ns
+VCS Coverage Metrics Release S-2021.09-SP1_Full64 Copyright (c) 1991-2021 by Synopsys Inc.
+Starting vcs inline pass...
+5 modules and 0 UDP read.
+	However, due to incremental compilation, no re-compilation is necessary.
+rm -f _cuarc*.so _csrc*.so pre_vcsobj_*.so share_vcsobj_*.so
+ld -shared  -Bsymbolic   -o .//../simv.daidir//_cuarc0.so objs/amcQw_d.o 
+rm -f _cuarc0.so
+if [ -x ../simv ]; then chmod a-x ../simv; fi
+g++  -o ../simv      -rdynamic  -Wl,-rpath='$ORIGIN'/simv.daidir -Wl,-rpath=./simv.daidir \
+-Wl,-rpath=/eda/synopsys/2021-22/RHELx86/VCS_2021.09-SP1/linux64/lib -L/eda/synopsys/2021-22/RHELx86/VCS_2021.09-SP1/linux64/lib \
+-Wl,-rpath-link=./     _26898_archive_1.so _prev_archive_1.so _cuarc0.so  SIM_l.o \
+rmapats_mop.o rmapats.o rmar.o rmar_nd.o  rmar_llvm_0_1.o rmar_llvm_0_0.o        \
+-lnuma -lvirsim -lerrorinf -lsnpsmalloc -lvfs    -lvcsnew -lsimprofile -lreader_common \
+/eda/synopsys/2021-22/RHELx86/VCS_2021.09-SP1/linux64/lib/libBA.a -luclinative /eda/synopsys/2021-22/RHELx86/VCS_2021.09-SP1/linux64/lib/vcs_tls.o \
+-Wl,-whole-archive  -lvcsucli    -Wl,-no-whole-archive        _vcs_pli_stub_.o   \
+/eda/synopsys/2021-22/RHELx86/VCS_2021.09-SP1/linux64/lib/vcs_save_restore_new.o \
+/eda/synopsys/2021-22/RHELx86/VERDI_2021.09-SP1//share/PLI/VCS/LINUX64/pli.a -ldl \
+-lc -lm -lpthread -ldl 
+../simv up to date
+CPU time: .400 seconds to compile + .224 seconds to elab + .177 seconds to link
+Verdi KDB elaboration done and the database successfully generated: 0 error(s), 0 warning(s)

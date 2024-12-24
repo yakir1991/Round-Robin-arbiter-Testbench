@@ -1,0 +1,232 @@
+global coverage_group 0 $unit::arbiter_scoreboard#(4)::arbiter_cg __coverage_arbiter_scoreboard#(4).arbiter_cg unused_arbiter_scoreboard#(4)_arbiter_cg_loop_label $unit 0 1 0 1 $unit::arbiter.v::arbiter_assertions.sv...@1643121098 0  ( 0 
+)
+ 1 2
+ 51 /users/pd13/arbiter_2/arbiter/arbiter_scoreboard.sv
+ 51 /users/pd13/arbiter_2/arbiter/arbiter_assertions.sv
+ 22 0 0 0 1 0 0 0 0  1
+0
+0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+0
+0
+0
+64
+0
+ 0
+
+5
+0
+2
+0
+ 7 host_cp 24 0 0 0 0 0 200 _vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7::_vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7__vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7_arbiter_cg_fn 200 _vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7::_vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7__vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7_arbiter_cg_fn 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 -1 1 32 0 0 1 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 1 1 1 1 0 1 1 5 hosts 25 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 202 _vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7::_vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7__vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7_arbiter_cg_fn_0 0 202 _vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7::_vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7__vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7_arbiter_cg_fn_1 0 0 0 0 0
+ 0
+
+ 5 op_cp 29 0 0 0 0 0 202 _vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7::_vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7__vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7_arbiter_cg_fn_2 202 _vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7::_vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7__vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7_arbiter_cg_fn_2 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 -1 2 2 0 0 1 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 3 1 1 0 0 1 1 4 read 30 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 202 _vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7::_vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7__vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7_arbiter_cg_fn_3 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 5 write 31 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 202 _vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7::_vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7__vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7_arbiter_cg_fn_4 0 0 0 0 0 0 0
+ 0
+ 1 3 0 0 1 1 7 invalid 32 0 0 3 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 2 1 1 202 _vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7::_vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7__vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7_arbiter_cg_fn_5 0 0 0 0 0 0 0
+ 1 1 202 _vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7::_vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7__vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7_arbiter_cg_fn_6 0 0 0 0 0 0 0
+ 0
+
+ 7 addr_cp 36 0 0 0 0 0 202 _vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7::_vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7__vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7_arbiter_cg_fn_7 202 _vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7::_vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7__vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7_arbiter_cg_fn_7 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 -1 2 32 0 0 1 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 1 1 1 1 0 1 1 6 ranges 37 0 0 1 0 0 0 0 0 0 0 0 0 0 202 _vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7::_vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7__vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7_arbiter_cg_fn_8 0 -1 0 0 -1 0 0 1 1 1 202 _vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7::_vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7__vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7_arbiter_cg_fn_0 0 202 _vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7::_vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7__vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7_arbiter_cg_fn_9 0 0 0 0 0
+ 0
+
+ 5 be_cp 41 0 0 0 0 0 202 _vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7::_vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7__vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7_arbiter_cg_fn_a 202 _vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7::_vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7__vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7_arbiter_cg_fn_a 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 -1 2 4 0 0 1 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 3 1 1 1 0 1 1 11 single_byte 42 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 4 1 1 202 _vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7::_vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7__vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7_arbiter_cg_fn_b 0 0 0 0 0 0 0
+ 1 1 202 _vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7::_vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7__vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7_arbiter_cg_fn_c 0 0 0 0 0 0 0
+ 1 1 202 _vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7::_vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7__vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7_arbiter_cg_fn_d 0 0 0 0 0 0 0
+ 1 1 202 _vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7::_vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7__vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7_arbiter_cg_fn_e 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 4 word 43 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 202 _vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7::_vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7__vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7_arbiter_cg_fn_f 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 18 other_combinations 44 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 8 0 0 0 0 0 0 0 0 0
+
+ 6 ack_cp 48 0 0 0 0 0 203 _vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7::_vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7__vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7_arbiter_cg_fn_10 203 _vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7::_vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7__vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7_arbiter_cg_fn_10 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 -1 2 2 0 0 1 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 3 1 1 0 0 1 1 6 normal 49 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 202 _vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7::_vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7__vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7_arbiter_cg_fn_4 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 7 timeout 50 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 202 _vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7::_vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7__vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7_arbiter_cg_fn_3 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 5 error 51 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 202 _vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7::_vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7__vcs_unit__1643121098_arbiter_scoreboard_462651600415360241_7_arbiter_cg_fn_6 0 0 0 0 0 0 0
+ 0
+
+ 13 host_op_cross 0 55 0 0 -1 0 0 0 0 2 0 1 -1 0 0 0
+ 0
+ 0
+ 0
+ 0 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 13 addr_be_cross 0 56 0 0 -1 0 0 0 0 2 2 3 -1 0 0 0
+ 0
+ 0
+ 0
+ 0 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+end_coverage_group
+global coverage_group 0 arbiter_assertions::arbiter_cov __coverage_arbiter_cov unused_arbiter_cov_loop_label arbiter_assertions 0 1 0 0 0  ( 0 
+)
+ 0 68 1 0 0 0 0 0 0 0  1
+0
+26 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+0
+0
+0
+64
+0
+ 0
+
+1
+0
+0
+0
+ 8 rd_wr_cp 69 1 0 0 0 0 46 arbiter_cov::arbiter_assertions_arbiter_cov_fn 46 arbiter_cov::arbiter_assertions_arbiter_cov_fn 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 -1 2 2 0 0 1 0 2 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 4 1 1 0 0 1 1 4 read 70 1 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 48 arbiter_cov::arbiter_assertions_arbiter_cov_fn_0 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 5 write 71 1 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 48 arbiter_cov::arbiter_assertions_arbiter_cov_fn_1 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 4 idle 72 1 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 48 arbiter_cov::arbiter_assertions_arbiter_cov_fn_2 0 0 0 0 0 0 0
+ 0
+ 1 3 0 0 1 1 4 both 73 1 0 3 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 48 arbiter_cov::arbiter_assertions_arbiter_cov_fn_3 0 0 0 0 0 0 0
+ 0
+
+end_coverage_group

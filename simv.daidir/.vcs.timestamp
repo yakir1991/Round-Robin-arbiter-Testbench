@@ -1,0 +1,145 @@
+0 
+47
++itf+/eda/synopsys/2021-22/RHELx86/VCS_2021.09-SP1/linux64/lib/vcsdp_lite.tab
++vcs+flush+all
++vcs+lic+wait
++vcsd1
++vpi
++warn=all
+-Mamsrun=
+-Masflags=
+-Mcc=gcc
+-Mcfl= -pipe -fPIC -O -I/eda/synopsys/2021-22/RHELx86/VCS_2021.09-SP1/include
+-Mcplusplus=g++
+-Mcrt0=
+-Mcrtn=
+-Mcsrc=
+-Mexternalobj=
+-Mldflags= -rdynamic
+-Mobjects= /eda/synopsys/2021-22/RHELx86/VCS_2021.09-SP1/linux64/lib/libvirsim.so /eda/synopsys/2021-22/RHELx86/VCS_2021.09-SP1/linux64/lib/liberrorinf.so /eda/synopsys/2021-22/RHELx86/VCS_2021.09-SP1/linux64/lib/libsnpsmalloc.so /eda/synopsys/2021-22/RHELx86/VCS_2021.09-SP1/linux64/lib/libvfs.so
+-Mout=simv
+-Msaverestoreobj=/eda/synopsys/2021-22/RHELx86/VCS_2021.09-SP1/linux64/lib/vcs_save_restore_new.o
+-Msyslibs=/eda/synopsys/2021-22/RHELx86/VERDI_2021.09-SP1//share/PLI/VCS/LINUX64/pli.a -ldl
+-Mvcsaceobjs=
+-Mxcflags= -pipe -fPIC -I/eda/synopsys/2021-22/RHELx86/VCS_2021.09-SP1/include
+-Mxllcflags=
+-P
+-Xufe=2steps
+-cm
+-cm_dir
+-cm_log
+-cm_name
+-debug_access+all
+-f build.list
+-fsdb
+-full64
+-gen_obj
+-kdb
+-l
+-picarchive
+-sverilog
+-timescale=1ns/1ns
+/eda/synopsys/2021-22/RHELx86/VCS_2021.09-SP1/linux64/bin/vcs1
+vcs_comp.log
+line+cond+tgl+branch
+./coverage
+design_coverage
+coverage.log
+/eda/synopsys/2021-22/RHELx86/VERDI_2021.09-SP1//share/PLI/VCS/LINUX64/verdi.tab
+build.list
+70
+XDG_SESSION_ID=2330
+XDG_RUNTIME_DIR=/run/user/4329
+VSCODE_IPC_HOOK_CLI=/run/user/4329/vscode-ipc-6217371d-ced6-4b9e-be99-8cfd84033137.sock
+VSCODE_GIT_IPC_HANDLE=/run/user/4329/vscode-git-bb57e8d3a6.sock
+VSCODE_GIT_ASKPASS_NODE=/users/pd13/.vscode-server/cli/servers/Stable-fabdb6a30b49f79a7aba0f2ad9df9b399473380f/server/node
+VSCODE_GIT_ASKPASS_MAIN=/users/pd13/.vscode-server/cli/servers/Stable-fabdb6a30b49f79a7aba0f2ad9df9b399473380f/server/extensions/git/dist/askpass-main.js
+VSCODE_GIT_ASKPASS_EXTRA_ARGS=
+VMR_MODE_FLAG=64
+VERDI_HOME=/eda/synopsys/2021-22/RHELx86/VERDI_2021.09-SP1/
+VERDI3_NEW_INTERACTIVE_DEBUG=
+VENDOR=unknown
+VCS_TARGET_ARCH=amd64
+VCS_PATHMAP_PRELOAD_DONE=1
+VCS_MX_HOME_INTERNAL=1
+VCS_MODE_FLAG=64
+VCS_LOG_FILE=vcs_comp.log
+VCS_HOME=/eda/synopsys/2021-22/RHELx86/VCS_2021.09-SP1/
+VCS_EXEC_DONE=1
+VCS_DEPTH=0
+VCS_ARG_ADDED_FOR_TMP=1
+VCS_ARCH=linux64
+UNAME=/bin/uname
+TOOL_HOME=/eda/synopsys/2021-22/RHELx86/VCS_2021.09-SP1/linux64
+TERM_PROGRAM_VERSION=1.96.2
+TERM_PROGRAM=vscode
+SYNOPSYS_SYN_ROOT=/eda/synopsys/2021-22/RHELx86/SYN_2021.06-SP4/
+SYNOPSYS_LC_ROOT=/eda/synopsys/2021-22/RHELx86/LC_2021.06-SP4/
+SSL_CERT_FILE=/etc/pki/ca-trust/extracted/pem/tls-ca-bundle.pem
+SSL_CERT_DIR=/etc/pki/tls/certs
+SSH_CONNECTION=132.69.237.6 51093 132.68.59.57 22
+SSH_CLIENT=132.69.237.6 51093 22
+SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass
+SNPS_VERDI_INTERNAL_LP_XML_NEW_FLOW=1
+SNPS_VERDI=/eda/synopsys/2021-22/RHELx86/VERDI_2021.09-SP1/
+SNPS_VCS_CLANG_PATH=/eda/synopsys/2021-22/RHELx86/VCS_2021.09-SP1//linux64/clang
+SNPS_SYN=/eda/synopsys/2021-22/RHELx86/SYN_2021.06-SP4/
+SNPS_RTL_ARCH=/eda/synopsys/2021-22/RHELx86/RTL-ARCH_2021.06-SP4/
+SNPS_INTERNAL_VCS_LINUX_OS=linux
+SNPS_EUCLIDE=/eda/synopsys/2021-22/RHELx86/EUCLIDE_2021.09-SP1/
+SKIP_CDS_DIALOG=
+SELINUX_USE_CURRENT_RANGE=
+SELINUX_ROLE_REQUESTED=
+SELINUX_LEVEL_REQUESTED=
+SCRNAME=vcs
+SCRIPT_NAME=vcs
+QT_PLUGIN_PATH=/usr/lib64/kde4/plugins:/usr/lib/kde4/plugins
+QT_GRAPHICSSYSTEM_CHECKED=1
+QTLIB=/usr/lib64/qt-3.3/lib
+QTINC=/usr/lib64/qt-3.3/include
+QTDIR=/usr/lib64/qt-3.3
+PERL_MM_OPT=INSTALL_BASE=/users/pd13/perl5
+PERL_MB_OPT=--install_base /users/pd13/perl5
+PERL_LOCAL_LIB_ROOT=/users/pd13/perl5
+PERL_HOMEDIR=1
+PERL5LIB=/users/pd13/perl5/lib/perl5
+OVA_UUM=0
+OSTYPE=linux
+NOVAS_HOME=/eda/synopsys/2021-22/RHELx86/VERDI_2021.09-SP1/
+MODULESHOME=/usr/share/Modules
+MODULEPATH=/usr/share/Modules/modulefiles:/etc/modulefiles
+LOADEDMODULES=
+LESSOPEN=||/usr/bin/lesspipe.sh %s
+LC_ALL=C
+KDEDIRS=/usr
+HOSTTYPE=x86_64-linux
+GROUP=mail
+GIT_ASKPASS=/users/pd13/.vscode-server/cli/servers/Stable-fabdb6a30b49f79a7aba0f2ad9df9b399473380f/server/extensions/git/dist/askpass.sh
+ECLIPSE_VERSION=4.19
+CVS_RSH=ssh
+COLORTERM=truecolor
+0
+0
+15
+1735074652 arbiter_tb.sv
+1735076383 arbiter_env.sv
+1735076756 slave_responder.sv
+1735076381 arbiter_scoreboard.sv
+1735076691 arbiter_monitor.sv
+1735076350 arbiter_driver.sv
+1734906557 arbiter_generator.sv
+1734908701 arbiter_transaction.sv
+1735076512 arbiter_if.sv
+1735074766 arbiter_assertions.sv
+1733937232 arbiter.v
+1638245138 /eda/synopsys/2021-22/RHELx86/VCS_2021.09-SP1//include/cm_vcsd.tab
+1735074728 build.list
+1638190450 /eda/synopsys/2021-22/RHELx86/VERDI_2021.09-SP1//share/PLI/VCS/LINUX64/verdi.tab
+1638245157 /eda/synopsys/2021-22/RHELx86/VCS_2021.09-SP1/linux64/lib/vcsdp_lite.tab
+4
+1638257447 /eda/synopsys/2021-22/RHELx86/VCS_2021.09-SP1/linux64/lib/libvirsim.so
+1638246089 /eda/synopsys/2021-22/RHELx86/VCS_2021.09-SP1/linux64/lib/liberrorinf.so
+1638245983 /eda/synopsys/2021-22/RHELx86/VCS_2021.09-SP1/linux64/lib/libsnpsmalloc.so
+1638246086 /eda/synopsys/2021-22/RHELx86/VCS_2021.09-SP1/linux64/lib/libvfs.so
+1735076766 simv.daidir
+-1 partitionlib

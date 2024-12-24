@@ -1,0 +1,2 @@
+Command Line: /eda/synopsys/2021-22/RHELx86/VERDI_2021.09-SP1/platform/LINUXAMD64/bin/vdCov -i -simflow -simBin ./simv -simDelim +vcs+lic+wait -covdir coverage.vdb
+uname(Linux vlsi-ria57 3.10.0-1160.62.1.el7.x86_64 #1 SMP Wed Mar 23 09:04:02 UTC 2022 x86_64)

@@ -1,1 +1,11 @@
-
+arbiter.v               # DUT first
+arbiter_assertions.sv   # Assertions depends on DUT, needs to be before testbench
+arbiter_if.sv          # Interface next
+arbiter_transaction.sv # Base transaction class
+arbiter_generator.sv   # Generator depends on transaction
+arbiter_driver.sv      # Driver depends on transaction
+arbiter_monitor.sv     # Monitor depends on transaction
+arbiter_scoreboard.sv  # Scoreboard depends on transaction
+slave_responder.sv     # Responder comes before environment
+arbiter_env.sv         # Environment depends on all components
+arbiter_tb.sv          # Top testbench last - depends on all above

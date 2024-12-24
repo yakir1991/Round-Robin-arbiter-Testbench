@@ -1,0 +1,9 @@
+The design 'coverage.vdb' was loaded successfully.
+The following test is loaded from "coverage.vdb",
+    coverage/design_coverage
+The following flags are unrecognized for coverage and have been saved as 'verdi' debug flags:
+  -i -simflow -simBin ./simv -simDelim +vcs+lic+wait
+Please use Tools->Debug to launch the Verdi debugger with these flags.
+The design 'coverage.vdb' was loaded successfully.
+The following test is loaded from "coverage.vdb",
+    coverage/design_coverage
